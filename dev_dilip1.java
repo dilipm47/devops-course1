@@ -10,6 +10,5 @@ mai()
 	function3()
 	{ //initial code
 	}
->>>>>>> dev_test
 	}
 
